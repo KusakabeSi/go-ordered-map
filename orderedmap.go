@@ -3,7 +3,7 @@
 //
 // All operations are constant-time.
 //
-// Github repo: https://github.com/wk8/go-ordered-map
+// Github repo: https://github.com/KusakabeSi/go-ordered-map
 //
 package orderedmap
 

@@ -1,4 +1,4 @@
-module github.com/wk8/go-ordered-map
+module github.com/KusakabeSi/go-ordered-map
 
 go 1.14
 
